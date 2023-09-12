@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center;">
-    <img src="https://media.tenor.com/PbKcxNYCFV8AAAAC/the-office-michael-scott.gif" alt="MasterHead">
-</div>
+<p align="center"> <img src="https://media.tenor.com/PbKcxNYCFV8AAAAC/the-office-michael-scott.gif" alt="kryptxdemon" /> </p>
 
 <h3 align="center">Presently in my freshman year at Chittagong University of Engineering and Technology (CUET), Bangladesh. 🍛</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ3azRwZjhwZXJ4ODI5ejc0dzlxbG4ydDl0aGFxdnJqOXY2eThlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif">
