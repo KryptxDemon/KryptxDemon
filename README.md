@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kryptxdemon&label=Profile%20views&color=0e75b6&style=flat" alt="kryptxdemon" /> </p>
 
-- 🔭 I’m currently working on **Competitive Programming and CPP**
-
-- 🌱 I’m currently learning **Algorithms and data structures**
+- 🔭 I’m currently working on **scalable backend services and RESTful APIs**
 
 - 📫 How to reach me: **asiifanwaar@gmail.com**
 
-- ⚡ Fun fact: **Sometimes I'll start writing a code and I don't even know where it's going. I just hope I find it along the way. Like an improv conversation. An improversation.**
+- ⚡ Fun fact: **Sometimes I'll start writing code and I don't even know where it's going. I just hope I find it along the way. Like an improv conversation. An improversation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
